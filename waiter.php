@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>服務生桌面管理系統</title>
+    <title>服務生介面</title>
     <meta charset="utf8">
 </head>
 
@@ -34,6 +34,8 @@
         </p>
         <input type="submit" ; style="font-size:30px; position: absolute; top:200px;right:300;" ; value="送出">
     </form>
+
+    <a style="font-size:30px; position: absolute; top:600px;right:250;" href="http://localhost/NKNUHTML/menu.php">跳轉到訂單系統</a>
 
     <?php
     header("Refresh:10");

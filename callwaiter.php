@@ -11,7 +11,7 @@
             <font size="50">呼叫服務生
         </p>
 
-        <form method="POST">
+        <form method="post">
             <select name="dropdown" style='font-size:50px;'>
                 <option>請先選擇桌號再送出</option>
                 <option>1</option>
